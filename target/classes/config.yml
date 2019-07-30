@@ -1,0 +1,6 @@
+
+apikey: ""
+
+daemon:
+  host: "minepos.net"
+  port: 8887

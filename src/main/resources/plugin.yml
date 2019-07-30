@@ -1,0 +1,5 @@
+name: MinePoS-DaemonDebug
+version: 1.0.0
+main: net.minepos.daemondebug.Main
+description: Testing MinePoS Daemon
+author: AndrewAubury

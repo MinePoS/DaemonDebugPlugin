@@ -1,0 +1,5 @@
+net\minepos\daemondebug\MinePoSSender.class
+net\minepos\daemondebug\objects\QueuedCommand.class
+net\minepos\daemondebug\events\JoinHandler.class
+net\minepos\daemondebug\DaemonClient.class
+net\minepos\daemondebug\Main.class
